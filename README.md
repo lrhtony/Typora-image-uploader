@@ -3,7 +3,7 @@ A simple image uploader plugin for Typora that uploads images to my image hostin
 
 ## Usage
 ```bash
-python "main.py" -f "${filepath} " 
+python "main.py" -f "${filepath}" 
 ```
 
 > [!IMPORTANT]  
